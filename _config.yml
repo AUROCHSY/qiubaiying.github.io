@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: aurochsy@gmail.com
 description: "Nothing is impossible,nothing is indispensable."
 keyword: "Atom, Atom Blog, 原子的博客, yuanrunhe, 原润和, 软件工程, 大数据,人工智能 "
-url: "http://niceguy.top"          # your host, for absolute URL
+url: "http://aurochsy.github.io"          # your host, for absolute URL
 baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
